@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33103.201
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomMatrix", "RandomMatrix\RandomMatrix.csproj", "{61A6CBD0-B812-4036-8B8C-0B83908DF3AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroceryStore", "GroceryStore\GroceryStore.csproj", "{7893972C-7FD4-4717-8D26-DB6D20AC84AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61A6CBD0-B812-4036-8B8C-0B83908DF3AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61A6CBD0-B812-4036-8B8C-0B83908DF3AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61A6CBD0-B812-4036-8B8C-0B83908DF3AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61A6CBD0-B812-4036-8B8C-0B83908DF3AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7893972C-7FD4-4717-8D26-DB6D20AC84AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7893972C-7FD4-4717-8D26-DB6D20AC84AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7893972C-7FD4-4717-8D26-DB6D20AC84AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7893972C-7FD4-4717-8D26-DB6D20AC84AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F13198D-7CA2-451D-A065-ADDDD5F18965}
+	EndGlobalSection
+EndGlobal
